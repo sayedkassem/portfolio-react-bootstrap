@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/portfolio-react-bootstrap/static/css/main.9f88596c.chunk.css",
+    "main.js": "/portfolio-react-bootstrap/static/js/main.f74ade3a.chunk.js",
+    "main.js.map": "/portfolio-react-bootstrap/static/js/main.f74ade3a.chunk.js.map",
+    "runtime-main.js": "/portfolio-react-bootstrap/static/js/runtime-main.9fcf1bd3.js",
+    "runtime-main.js.map": "/portfolio-react-bootstrap/static/js/runtime-main.9fcf1bd3.js.map",
+    "static/css/2.829c9cb5.chunk.css": "/portfolio-react-bootstrap/static/css/2.829c9cb5.chunk.css",
+    "static/js/2.eb302ba5.chunk.js": "/portfolio-react-bootstrap/static/js/2.eb302ba5.chunk.js",
+    "static/js/2.eb302ba5.chunk.js.map": "/portfolio-react-bootstrap/static/js/2.eb302ba5.chunk.js.map",
+    "index.html": "/portfolio-react-bootstrap/index.html",
+    "precache-manifest.cee67b68b40fb2867bb893e927de0f03.js": "/portfolio-react-bootstrap/precache-manifest.cee67b68b40fb2867bb893e927de0f03.js",
+    "service-worker.js": "/portfolio-react-bootstrap/service-worker.js",
+    "static/css/2.829c9cb5.chunk.css.map": "/portfolio-react-bootstrap/static/css/2.829c9cb5.chunk.css.map",
+    "static/css/main.9f88596c.chunk.css.map": "/portfolio-react-bootstrap/static/css/main.9f88596c.chunk.css.map",
+    "static/js/2.eb302ba5.chunk.js.LICENSE.txt": "/portfolio-react-bootstrap/static/js/2.eb302ba5.chunk.js.LICENSE.txt",
+    "static/media/WeatherApp.png": "/portfolio-react-bootstrap/static/media/WeatherApp.697a7589.png",
+    "static/media/taskManager.png": "/portfolio-react-bootstrap/static/media/taskManager.1bded2d6.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9fcf1bd3.js",
+    "static/css/2.829c9cb5.chunk.css",
+    "static/js/2.eb302ba5.chunk.js",
+    "static/css/main.9f88596c.chunk.css",
+    "static/js/main.f74ade3a.chunk.js"
+  ]
+}
