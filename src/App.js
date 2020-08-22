@@ -1,5 +1,5 @@
 import React from 'react';
-import {BrowserRouter as Router,Route,Link} from 'react-router-dom'
+import {BrowserRouter as HashRouter,Route,Link} from 'react-router-dom'
 import './App.css';
 import Container  from 'react-bootstrap/Container'
 import Navbar  from 'react-bootstrap/Navbar/'
@@ -35,7 +35,7 @@ class App extends React.Component{
 
   return (
     <div>
-      <Router>
+      <HashRouter basename="/">
           <Container fluid={true} className="p-0">
           <Navbar className="border-bottom" bg="transparent" expand="lg">
             <Navbar.Brand>Sayed Kassem</Navbar.Brand>
@@ -58,7 +58,7 @@ class App extends React.Component{
           <Route  path="/contact" exact render={()=><ContactPage title={this.state.contact.title}/>}/>
            <Footer/>
           </Container>
-      </Router>
+      </HashRouter>
     </div>
   );
 }
